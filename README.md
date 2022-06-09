@@ -17,6 +17,9 @@ Python, C, C++, C#, Java, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, Re
 </a> 
 </p>
 
+
+<p align=left> <img src=https://komarev.com/ghpvc/?username=mochfatchur alt=mochfatchur /> </p>
+
 <h2> :two_men_holding_hands: Another Side of Me: </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/mochammad-fatchur-rochman-9ab56720b/">
