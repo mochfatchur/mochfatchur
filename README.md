@@ -10,11 +10,18 @@ Python, C, C++, C#, Java, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, Re
 
 <h2> :eyes: Stats: </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mochfatchur&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdyirawanf&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochfatchur&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdyirawanf&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mochfatchur)
+
+<p align="center">
+<a href="https://github.com/mochfatchur">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mochfatchur&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mochfatchur&layout=compact&langs_count=8&theme=algolia"/>
+</a> 
+</p>
 
 <h2> :two_men_holding_hands: Another Side of Me: </h2>
 <div align="center">
