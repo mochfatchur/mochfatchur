@@ -6,7 +6,7 @@
 Currently majoring in Informatics Engineering at Institut Teknologi Bandung. Interested in full-stack web development. Still new about that stuff but looking for opportunity to work with others!
 
 <h2> :sparkles: Language and Tools: </h2>
-Python, C, C++, C#, Python, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, React, Flask
+Python, C, C++, C#, Java, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, React, Flask
 
 <h2> :eyes: Stats: </h2>
 
